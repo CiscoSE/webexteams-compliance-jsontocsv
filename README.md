@@ -3,8 +3,10 @@
 This is a Python3 script written to convert Webex Teams JSON-format Compliance data in to a CSV Flat file structure.
 
 Modules Used:
+```
 flatten https://github.com/amirziai/flatten
 pandas https://github.com/pandas-dev/pandas
+```
 (note: both modules have required modules such as numpy, etc)
 
 Both Modules can be installed using 'pip3 install flatten pandas' and pip will take care of the other required modules. Please note, all modules may require different compilers in different circumstances and may throw errors if not available.
